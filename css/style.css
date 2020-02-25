@@ -34,7 +34,7 @@ a.divlink {
 }
 
 #banner {
-  position: absolute;
+  position: relative;
   margin: 0 auto;
   background: white;
   overflow: hidden;
